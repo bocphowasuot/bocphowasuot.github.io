@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bocphowasuot.github.io/sitemap.xml
